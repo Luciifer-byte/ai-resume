@@ -61,3 +61,43 @@ cv:
         location: Los Angeles, California
         highlights:
           - Focus on Digital Marketing, Consumer Behavior, Marketing Analytics.
+design:
+  theme: sb2nov
+  colors:
+    name: '#08591c'
+    connections: '#005F73'
+    section_titles: '#08591c'
+    links: '#003845'
+  page:
+    size: a4
+    top_margin: 0.6in
+    bottom_margin: 0.6in
+    left_margin: 0.3in
+    right_margin: 0.3in
+    show_footer: false
+    show_top_note: false
+  typography:
+    date_and_location_column_alignment: right
+    font_family:
+      body: Charter
+      name: Helvetica
+      section_titles: Helvetica
+      headline: Helvetica
+      connections: Helvetica
+    font_size:
+      body: 12pt
+      name: 24pt
+      headline: 12pt
+      connections: 12pt
+      section_titles: 15pt
+  section_titles:
+    space_above: 0.9cm
+    space_below: 0.3cm
+  sections:
+    space_between_regular_entries: 0.9em
+  entries:
+    allow_page_break: false
+    date_and_location_width: 3.5cm
+    highlights:
+      space_between_items: 0.1cm
+      space_left: 0.9cm
