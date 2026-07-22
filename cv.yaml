@@ -1,0 +1,63 @@
+cv:
+  name: Alex Carter
+  location: San Francisco, California, USA
+  email: alex.carter@example.com
+  phone: "+1 (415) 555-0189"
+  social_networks:
+    - network: LinkedIn
+      username: alex-carter-marketing
+    - network: GitHub
+      username: alexcarterdev
+  sections:
+    summary:
+      - >
+        Marketing professional with 7+ years of experience in growth marketing,
+        brand strategy, digital campaigns, and analytics. Experienced in
+        leading cross-functional initiatives, optimizing customer acquisition,
+        and using AI-assisted workflows to improve marketing efficiency.
+    skills:
+      - label: Marketing
+        details: Brand Strategy, Growth Marketing, Product Marketing, Campaign Management
+      - label: Analytics
+        details: Google Analytics 4, Tableau, Power BI, Looker Studio
+      - label: Digital
+        details: Google Ads, Meta Ads, LinkedIn Ads, SEO, Email Marketing
+      - label: Tools
+        details: HubSpot, Salesforce, Canva, Figma, Notion, Microsoft 365
+      - label: Languages
+        details: English (Native), Spanish (Professional)
+    Professional Experience:
+      - company: Netflix
+        position: Senior Marketing Manager
+        start_date: 2022-01
+        end_date: present
+        location: Los Angeles, California
+        highlights:
+          - Led integrated marketing campaigns reaching 50M+ users.
+          - Increased customer acquisition by 28% through data-driven optimization.
+          - Managed $5M annual digital advertising budget.
+      - company: HubSpot
+        position: Digital Marketing Specialist
+        start_date: 2019-06
+        end_date: 2021-12
+        location: Boston, Massachusetts
+        highlights:
+          - Increased organic traffic by 70% through SEO initiatives.
+          - Built automated email campaigns improving lead conversion by 40%.
+      - company: Adobe
+        position: Marketing Coordinator
+        start_date: 2017-07
+        end_date: 2019-05
+        location: San Jose, California
+        highlights:
+          - Supported product launch campaigns across North America.
+          - Coordinated influencer and social media marketing initiatives.
+    education:
+      - institution: University of Southern California
+        area: Marketing
+        degree: Bachelor of Business Administration
+        start_date: 2013
+        end_date: 2017
+        location: Los Angeles, California
+        highlights:
+          - Focus on Digital Marketing, Consumer Behavior, Marketing Analytics.
