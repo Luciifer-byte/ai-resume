@@ -24,7 +24,7 @@ cv.yaml
 rendercv.yaml
 
 ## Generated Resume
-
+rendercv_output/Alex_Carter_CV.pdf
 (PDF Screenshot)
 
 ## How to Run
